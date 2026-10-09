@@ -159,7 +159,7 @@ Ideas for future iterations:
 
 ## 👨‍💻 Author
 
-**Tushar Nile**
+**Tushar **
 
 - GitHub: [@tusharaitechie](https://github.com/tusharaitechie)
 - Project: [appgithubaction](https://github.com/tusharaitechie/appgithubaction)
